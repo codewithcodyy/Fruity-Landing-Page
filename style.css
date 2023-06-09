@@ -10,7 +10,7 @@
     width: 80%;
     margin: auto;
 }
-.navbar {
+.navbar { 
     margin: 30px auto;
     display: flex;
     align-items: center;
